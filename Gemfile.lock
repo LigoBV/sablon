@@ -16,7 +16,7 @@ GEM
     rake (10.4.2)
     redcarpet (3.2.3)
     rubyzip (1.1.7)
-    xml-simple (1.1.5)
+    xml-simple (1.1.8)
 
 PLATFORMS
   ruby
