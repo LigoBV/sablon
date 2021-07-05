@@ -15,7 +15,7 @@ GEM
       mini_portile (~> 0.6.0)
     rake (10.4.2)
     redcarpet (3.2.3)
-    rubyzip (1.1.7)
+    rubyzip (2.3.1)
     xml-simple (1.1.5)
 
 PLATFORMS
